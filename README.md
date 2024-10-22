@@ -1,2 +1,2 @@
-# prectice-repository
+# practice-repository
 print("hello world")
